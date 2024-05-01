@@ -90,7 +90,7 @@ getgenv().config = {
         ["Link Webhook"] = "https://discord.com/api/webhooks/1205388446055800922/RaXmDGB-oIdikwQYnwnuUm849ByqL0HqNZK8PxJobSfV_ILWUvZleyDU8KdpYgu25oOE",
         ["Toggle Webhook"] = true
     },
-    ["ChatSpam"] = {"Sera Hub On Top", "No Skill? Using SeraHub"},
+    ["ChatSpam"] = {"𝕏𝕦𝕒𝕟 ℚ𝕦𝕪𝕖𝕥 On Top", "Vip quá? Using 𝕏𝕦𝕒𝕟 ℚ𝕦𝕪𝕖𝕥 Hub"},
     ["MinBountyHunt"] = 0,
     ["MaxBountyHunt"] = 30000000,
     ["SafeHealth"] = 5500
