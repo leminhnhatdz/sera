@@ -1,5 +1,5 @@
 getgenv().config = {
-    ["Team"] = "Marines",
+    ["Team"] = "Pirates",
     ["Use Race"] = {
         ["V3"] = true,
         ["V4"] = true
@@ -90,7 +90,7 @@ getgenv().config = {
         ["Link Webhook"] = "https://discord.com/api/webhooks/1205388446055800922/RaXmDGB-oIdikwQYnwnuUm849ByqL0HqNZK8PxJobSfV_ILWUvZleyDU8KdpYgu25oOE",
         ["Toggle Webhook"] = true
     },
-    ["ChatSpam"] = {"𝕏𝕦𝕒𝕟 ℚ𝕦𝕪𝕖𝕥 On Top", "No Skill? Using SeraHub"},
+    ["ChatSpam"] = {"Sera Hub On Top", "No Skill? Using SeraHub"},
     ["MinBountyHunt"] = 0,
     ["MaxBountyHunt"] = 30000000,
     ["SafeHealth"] = 5500
