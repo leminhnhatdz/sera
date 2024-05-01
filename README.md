@@ -48,17 +48,17 @@ getgenv().config = {
                     ["HoldTime"] = 0,
                 },
                 ["V"] = {
-                    ["Enable"] = true,
+                    ["Enable"] = false,
                     ["HoldTime"] = 0,
                 },
                 ["F"] = {
-                    ["Enable"] = true,
+                    ["Enable"] = false,
                     ["HoldTime"] = 0,
                 },
             },
         },
         ["Gun"] = {
-            ["Enable"] = true,
+            ["Enable"] = false,
             ["Delay"] = 2,
             ["Skills"] = {
                 ["Z"] = {
@@ -72,7 +72,7 @@ getgenv().config = {
             },
         },
         ["Sword"] = {
-            ["Enable"] = true,
+            ["Enable"] = false,
             ["Delay"] = 2,
             ["Skills"] = {
                 ["Z"] = {
@@ -90,7 +90,7 @@ getgenv().config = {
         ["Link Webhook"] = "https://discord.com/api/webhooks/1205388446055800922/RaXmDGB-oIdikwQYnwnuUm849ByqL0HqNZK8PxJobSfV_ILWUvZleyDU8KdpYgu25oOE",
         ["Toggle Webhook"] = false
     },
-    ["ChatSpam"] = {"𝕏𝕦𝕒𝕟 ℚ𝕦𝕪𝕖𝕥 On Top", "Vip quá? Using 𝕏𝕦𝕒𝕟 ℚ𝕦𝕪𝕖𝕥 Hub"},
+    ["ChatSpam"] = {"Sera Hub On Top", "No Skill? Using SeraHub"},
     ["MinBountyHunt"] = 0,
     ["MaxBountyHunt"] = 30000000,
     ["SafeHealth"] = 5500
